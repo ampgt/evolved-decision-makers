@@ -1,4 +1,4 @@
-# evolveddecisionmakers
+# evolved-decision-makers
 [Under construction]
 
 Project description and purpose:
